@@ -26,11 +26,7 @@
 	along with this program; if not, write to the Free Software
 	Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 	*/
-// уведомления
-// видео по темам "описание"
-// сайт
-// оформление страниц в ВП
-// выписать книги которые прочетал
+
 	if ( !defined( 'ABSPATH' ) ) exit;
 
 	define( 'DIR_ZESTATIX', plugin_dir_path( __FILE__ ) );
