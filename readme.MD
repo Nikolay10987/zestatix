@@ -1,3 +1,5 @@
+![alt text](http://x9618502.beget.tech/wp-content/themes/zestatix/img/screenshot-1.png)
+
 zeStatix ​​is counter clicks for the specified HTML elements.
 
 
