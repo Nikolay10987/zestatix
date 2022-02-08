@@ -1,7 +1,5 @@
-zeStatix ​​is counter clicks for the specified HTML elements. Click tracking is easy, you just need to select an element on the site page.
+zeStatix ​​is counter clicks for the specified HTML elements.
 
-== DESCRIPTION ==
-zeStatix ​​is counter clicks for the specified HTML elements. Click tracking is easy, you just need to select an element on the site page.
 
 = Features =
 - No additional servers are used;
